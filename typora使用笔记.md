@@ -96,7 +96,7 @@ option+command+T
 
 插入本地图片：直接把图片拖入即可；  
 
-如： ![框架图](typora使用笔记.assets\框架图.png)浏览通过command+点击
+如： ![框架图](https://github.com/xxl-seu/typora_learning_git/typora使用笔记.assets/框架图.png)浏览通过command+点击
 
 插入网络图片：!+[]+()
 
